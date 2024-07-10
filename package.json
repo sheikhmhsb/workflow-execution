@@ -1,0 +1,19 @@
+{
+  "name": "workflowexecution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^3.1.7",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "mongodb": "^6.6.2",
+    "nodemailer": "^6.9.13",
+    "twilio": "^5.0.4"
+  }
+}
